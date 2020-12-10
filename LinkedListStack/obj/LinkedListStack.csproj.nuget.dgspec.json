@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Liron.Saedi\\source\\repos\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj": {}
+    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Liron.Saedi\\source\\repos\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj": {
+    "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Liron.Saedi\\source\\repos\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj",
+        "projectUniqueName": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj",
         "projectName": "LinkedListStack",
-        "projectPath": "C:\\Users\\Liron.Saedi\\source\\repos\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj",
+        "projectPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LinkedListStack\\LinkedListStack\\LinkedListStack.csproj",
         "packagesPath": "C:\\Users\\Liron.Saedi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Liron.Saedi\\source\\repos\\LinkedListStack\\LinkedListStack\\obj\\",
+        "outputPath": "\\\\GMRDC1\\Folder Redirection\\Liron.Saedi\\Documents\\GitHub\\LinkedListStack\\LinkedListStack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

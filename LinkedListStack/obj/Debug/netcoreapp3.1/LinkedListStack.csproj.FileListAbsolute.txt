@@ -11,3 +11,16 @@ C:\Users\Liron.Saedi\source\repos\LinkedListStack\LinkedListStack\obj\Debug\netc
 C:\Users\Liron.Saedi\source\repos\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.dll
 C:\Users\Liron.Saedi\source\repos\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.pdb
 C:\Users\Liron.Saedi\source\repos\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.genruntimeconfig.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp3.1\LinkedListStack.exe
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp3.1\LinkedListStack.deps.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp3.1\LinkedListStack.runtimeconfig.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp3.1\LinkedListStack.runtimeconfig.dev.json
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp3.1\LinkedListStack.dll
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\bin\Debug\netcoreapp3.1\LinkedListStack.pdb
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.AssemblyInfoInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.AssemblyInfo.cs
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.csproj.CoreCompileInputs.cache
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.dll
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.pdb
+\\GMRDC1\Folder Redirection\Liron.Saedi\Documents\GitHub\LinkedListStack\LinkedListStack\obj\Debug\netcoreapp3.1\LinkedListStack.genruntimeconfig.cache

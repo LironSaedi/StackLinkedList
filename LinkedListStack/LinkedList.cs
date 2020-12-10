@@ -24,11 +24,12 @@ namespace LinkedListStack
 
             }
             else
-            {
+            { 
+              
                 Node<T> nodeToInsert = new Node<T>(Value);
                 nodeToInsert.Next = Head;
                 Head = nodeToInsert;
-               Storage = Head;
+              
                 Count++;
             }
         }
@@ -42,9 +43,10 @@ namespace LinkedListStack
             }
             else
             {
+                Storage = Head;
                 Head = Head.Next;
                 Count--;
-                Storage = Head;
+                
                 return true;
 
             }

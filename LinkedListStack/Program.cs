@@ -25,7 +25,7 @@ namespace LinkedListStack
         }
         public T Peek()
         {
-            return data.Storage.Value;
+            return data.Head.Value;
         }
     }
     class Program
